@@ -20,6 +20,7 @@ ScriptsOnlyBuild:
     - Valve.VR.InteractionSystem.SnapTurn
     - Valve.VR.InteractionSystem.Teleport
     - Valve.VR.InteractionSystem.TeleportArc
+    - Valve.VR.InteractionSystem.TeleportArea
     - Valve.VR.InteractionSystem.TeleportPoint
     - Valve.VR.InteractionSystem.TeleportURPHelper
     - Valve.VR.InteractionSystem.Throwable
@@ -169,6 +170,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 12818}
     - Class: 114
       Script: {instanceID: 12820}
+    - Class: 114
+      Script: {instanceID: 12842}
     - Class: 114
       Script: {instanceID: 12910}
     - Class: 114
